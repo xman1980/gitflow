@@ -38,13 +38,14 @@ junk   - Experiments (will never be merged).
 ```
 
 #### `<name>`
+Should contain numeric ID of task
 Always use dashes to seperate words, and keep it short.
 
 #### Examples
 ```
-feat/renderer-cookies
-hotfix/dockerfile-base-image
-bug/login-ie
+feat/3433-short-summary
+hotfix/4353-dockerfile-base-image
+bug/1234-login-ie
 ```
 * Фича-бранчи ответвляются от `master`. Это важно, потому что код в `dev` может быть еще не протестированным и содержать баги. Этим наш подход отличается от GitFlow, в котором ветки создаются из `develop`.
 * Когда работа над задачей завершена, ветка мёржится в `development`, и новая версия кода заливается на тестовый сервер.
