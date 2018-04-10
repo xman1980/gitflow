@@ -38,8 +38,8 @@ junk   - Experiments (will never be merged).
 ```
 
 #### `<name>`
-Should contain numeric ID of task
-Always use dashes to seperate words, and keep it short.
+Should contain numeric ID of task,
+always use dashes to seperate words, and keep it short.
 
 #### Examples
 ```
