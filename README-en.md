@@ -46,7 +46,7 @@ always use dashes to seperate words, and keep it short.
 
 #### Examples
 ```
-feat/3433-short-summary
+feature/3433-short-summary
 hotfix/4353-dockerfile-base-image
 bug/1234-login-ie
 ```
