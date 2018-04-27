@@ -1,4 +1,4 @@
-** This document describes the version control system configuration. The main aims are: **
+# This document describes the version control system configuration. The main aims are: #
 
 * Frequent releases (up to every day)
 * Capability for manual and automated testing
