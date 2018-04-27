@@ -74,3 +74,5 @@ Releasing
 * All the branches eligible for the release are merged into the `master`, then the `master` is deployed to the Production.
 * A new version of the `master` branch may need to be merged into into the feature-branches being not Done to allow fewer conflicts in the future.
 
+
+![gitflow1](git-flow.png "gitflow")
